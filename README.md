@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+just anothуer repository
+
+Hi,
+
+English is not native for me. 
+What does this mine  Hubot , tacos 
